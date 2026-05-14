@@ -1,4 +1,4 @@
-# NyayaNet
+# NyayaNet-Demo(Full Stack In process)
 
 NyayaNet is an AI-powered welfare resource allocation web app for India that helps verify beneficiaries, predict ration stock needs, and alert district officers to fraud risk. It is built for Google Solution Challenge 2026 with demo-first fallbacks so judges can run it even without Firebase, Gemini, or Maps keys.
 
